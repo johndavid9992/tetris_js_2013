@@ -1,1 +1,1 @@
-Tetris coded with JavaScript coded in 2013
+Tetris coded with JavaScript in 2013
