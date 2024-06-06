@@ -1,4 +1,4 @@
-// JavaScript Tetris by by gm@armadalogics.com
+// JavaScript Tetris by gm@armadalogics.com
 
 function playTetris()
 {
